@@ -39,6 +39,7 @@ Audio Plugins
 | [ampli-Fe](https://github.com/antonok-edm/ampli-Fe) | Cross-platform VST2 plugin written in Rust | Misc | Rust VST |
 | [amsynth](https://github.com/amsynth/amsynth) | Analog-modelling (virtual analog) synthesizer | Instrument | GTK |
 | [AnalogChannel](https://github.com/FilTer87/VST-AnalogChannel) | AnalogChannel is a VST3 channel strip plugin designed for mixing engineers who demand fast and characterful results in their workflow. | Effect | JUCE |
+| [ANATOMY](https://github.com/OTODESK4193/ANATOMY) | ANATOMY is a high-performance, open-source VST3 plugin that performs Transient/Tonal audio separation using a cos² crossfade algorithm, routing each component through its own independent multi-effect chain. | Effect | JUCE |
 | [andes](https://github.com/artfwo/andes) | Sound synthesiser plugin based on Perlin noise | Instrument | JUCE |
 | [Argotlunar](https://github.com/mourednik/argotlunar) | Real-time delay-line granulator | Effect | JUCE |
 | [Audible Planets](https://github.com/gregrecco67/AudiblePlanets) | An expressive, quasi-Ptolemaic semi-modular synthesizer | Instrument | JUCE |
@@ -159,6 +160,7 @@ Audio Plugins
 | [master_me](https://github.com/trummerschlunk/master_me) | Automatic audio mastering plugin for live-streaming and internet radio stations. | Effect | DPF |
 | [mda](https://sourceforge.net/projects/mda-vst/) | FX and virtual instruments for PC and Mac | Misc | N/A |
 | [mda-plugins-juce](https://github.com/hollance/mda-plugins-juce) | JUCE implementations of the classic MDA audio plug-ins | Misc | JUCE |
+| [MechanOdd](https://github.com/odoare/Mechanodd) | MechanOdd is a polyphonic physical-modelling synthesizer plugin (VST3/AU) built with JUCE | Instrument | JUCE |
 | [Melodrumatic](https://github.com/usdivad/Melodrumatic) | Melodrumatic is an audio plugin that lets you "pitch-shift" via delay (i.e. the Doppler effect) to turn unpitched audio into melodies. Controllable via MIDI or mouse. | Effect | JUCE |
 | [Microbiome](https://github.com/dsmaugy/microbiome) | Microbiome is a real-time audio effects plugin that uses delay lines and looping to create vibrant audio artifacts mimicking the nature of evolutionary biology. | Effect | JUCE |
 | [MidiChords](https://github.com/markwilkins/midi-chord-reader) | Detect chord names from a MIDI track and display them in a scrolling window during track playback | Misc | JUCE |
@@ -205,6 +207,7 @@ Audio Plugins
 | [Pult-EQ](https://github.com/consint/Pult-EQ) | Pult EQ is a free and open source Pultec style tube EQ VST3 plugin (64bit) for Linux and Windows. Pult EQ is not made for fine detailed work, but for adding mojo and sound coloration. You can boost the lows, the highs and the mids. You can saturate your sound or, of course, do the “Pultec trick”. The EQ features stereo and mid/side processing and the saturation comes with automatic gain compensation and up to 16 times oversampling. | Effect | Faust |
 | [QDelay](https://github.com/tiagolr/qdelay) | QDelay (short for quick-delay) is a dual-delay with more features than it should for a free plugin that's supposed to be quick. While it offers nothing groundbreaking it is based on popular units like ReplikaXT and EchoBoy. The main goal is to create a free and open plug-in for my own productions, an alternative to the popular [Deelay](https://sixthsample.com/deelay/) by SixthSample without premium versions or trimmed features or on-line activation. | Effect | JUCE |
 | [QtVST](https://github.com/mbrucher/QtVST) | VST plugins with a Qt interface | Effect | Qt |
+| [Quad Morph Filter](https://github.com/OTODESK4193/QuadMorphFilter) | Quad Morph Filter is a high-performance, open-source VST3 plugin featuring 28 meticulously modeled filter algorithms that can be morphed together in real-time using an intuitive XY pad interface | Effect | JUCE |
 | [quantumVerb](https://github.com/QVbDev/quantumVerb) | Convolution reverb plugin developed for [Quantum Music](http://www.quantum-music.ca/) (and the rest of the world) by 4th-year engineering students at [Polytechnique Montréal](http://www.polymtl.ca/en). | Effect | JUCE |
 | [Quetzalcoatl](https://github.com/publicsamples/Quetzalcoatl/) | Quetzalcoatl is an 8 layer sample playback plugin | Instrument | N/A |
 | [Ratatouille](https://github.com/brummer10/Ratatouille.lv2) | Ratatouille is a Neural Model loader and mixer | Effect | N/A |
