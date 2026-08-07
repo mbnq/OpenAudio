@@ -30,6 +30,7 @@ Audio Plugins
 | Plugin | Description | Type | Framework |
 | --- | --- | --- | --- |
 | [3HSPlug](https://github.com/src3453/3HSPlug) | GM/GS Compatible Multi-timbal 8-operator FM/PCM Syntheizer, uses 3HS88PWN4 (Fantasy sound chip) to make sound. | Effect | JUCE |
+| [8d_clip](https://github.com/mbnq/8f_clip_current) | Soft/hard clipper with waveform preview. | Effect | JUCE |
 | [8ridgelite](https://github.com/JamesStubbsEng/8ridgelite) | 8 string guitar virtual instrument | Instrument | JUCE |
 | [ADLplug](https://github.com/jpcima/ADLplug) | FM Chip Synthesizer — OPL & OPN | Instrument | JUCE |
 | [ÆLAPSE](https://github.com/smiarx/aelapse) | ÆLAPSE is a delay and reverb plugin. The delay is based on tape-delay mechanisms, while the reverb is inspired by (but not limited to) spring reverbs. | Effect | JUCE |
